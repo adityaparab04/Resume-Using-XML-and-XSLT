@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="resume.xsl"?>
+
+
+<Resume>
+
+	<Applicant>
+		<Name>Aditya Parab</Name>
+		<Address>Mumbai</Address>
+		<EmailId>adityaXX@gmail.com</EmailId>	
+		<PhoneNumber>0000000</PhoneNumber>
+		<Married_status>Unmarried </Married_status>
+	</Applicant>
+
+	<Objectives>
+		<Objective> I am positive minded with good communication skills. I have a track record of maintaining consistent performance level and achieving the desired targets through a relentless amount of hard work and dedication.</Objective>
+	</Objectives>
+
+	<Education>
+		<Qualification>
+			<Term>2013 - 2014</Term>
+			<Program>SSC</Program>
+			<Institution>Indian Education Society School</Institution>
+				<Marks>67%</Marks>
+		</Qualification>
+		
+		<Qualification>
+			<Term>2014 - 2016</Term>
+			<Program>HSC</Program>
+			<Institution>ST Rocks College</Institution>
+				<Marks>54%</Marks>
+		</Qualification>
+
+		<Qualification>
+			<Term>2016 - 2020</Term>
+			<Program>BE Computer Engineering</Program>
+			<Institution>Viva Institute of Technology</Institution>
+				<Marks>7.86 CGPI</Marks>
+		</Qualification>
+
+		<Qualification>
+			<Term>2021 - 2023</Term>
+			<Program>MS CS</Program>
+			<Institution>Stevens Institue of Technology</Institution>
+				<Marks>on going<Marks>
+		</Qualification>
+
+	</Education>
+	
+	<Certification>
+
+		<Course>Python Certification</Course>
+		<Course1>Digital Marketing Certification by Google</Course1>
+	</Certification>
+
+	<Strengths>
+		<Strength>Teamwork </Strength>
+	 	<Strength1>Effective Communication</Strength1>
+		<Strength2>Accuracy</Strength2>
+
+	</Strengths>
+
+	<Additional_Information>
+		<Languages>English - Fluent</Languages>
+		<Languages1>Marathi- Native</Languages1>
+		<Languages2>Spanish - Conversational</Languages2>
+		<Languages3>Hindi - Fluent</Languages3>
+	</Additional_Information>
+
+	<Hobby>
+		<Hobbies> Playing football </Hobbies>
+		<Hobbies1>Reading </Hobbies1>
+	</Hobby>
+
+</Resume>
